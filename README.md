@@ -4,7 +4,7 @@ COMO INSTALAR A APLICAÇÃO
 
 2 - Abra o terminal e navegue até a pasta que você deseja instalar a aplicação.
 
-3 - Digite "git clone https://github.com/MatheusBigode/StackNavigation.git".
+3 - Digite "git clone https://github.com/MatheusBigode/DrawerNavigation.git".
 
 4 - Navegue até a pasta criada usando "cd StackNavigation".
 
