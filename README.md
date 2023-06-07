@@ -6,7 +6,7 @@ COMO INSTALAR A APLICAÇÃO
 
 3 - Digite "git clone https://github.com/MatheusBigode/DrawerNavigation.git".
 
-4 - Navegue até a pasta criada usando "cd StackNavigation".
+4 - Navegue até a pasta criada usando "cd DrawerNavigation".
 
 5 - Abra com seu editor de códigos (se você usa Visual Studio Code, basta digitar "code .").
 
